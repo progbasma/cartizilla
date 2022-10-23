@@ -1,0 +1,8 @@
+home-electronics-store
+account-password-recovery
+account-profile
+account-signin
+checkout-details
+shop-cart
+contacts
+about
